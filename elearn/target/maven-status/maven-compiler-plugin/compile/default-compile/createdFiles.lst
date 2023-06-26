@@ -1,0 +1,5 @@
+com\example\elearn\controller\ElearnController.class
+com\example\elearn\repository\ElearnRepository.class
+com\example\elearn\service\ElearnService.class
+com\example\elearn\ElearnApplication.class
+com\example\elearn\model\Elearn.class
